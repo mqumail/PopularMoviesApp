@@ -1,0 +1,1021 @@
+[2016-07-30 00:38:21:0178] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 00:38:21:0178] Command Line: 
+[2016-07-30 00:38:26:0593] Too soon to check for arm update
+[2016-07-30 00:38:27:0374] could not find valid preference in product specific registry
+[2016-07-30 00:38:27:0374] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 00:38:27:0374] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 00:38:27:0374] ProductVersion: 11.0.17
+[2016-07-30 00:38:27:0374] ProductUACPatching: enabled
+[2016-07-30 00:38:31:0218] Using registered preference AUTO_ALL
+[2016-07-30 00:39:05:0410] Registered time expired
+[2016-07-30 00:39:05:0410] Registered time not expired
+[2016-07-30 00:39:05:0410] No files in Session, setting NO_UPDATES mode
+[2016-07-30 00:39:08:0489] ARM returns ERROR_SUCCESS
+[2016-07-30 00:39:08:0489] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 04:08:20:0928] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 04:08:20:0939] Command Line: 
+[2016-07-30 04:08:21:0374] Too soon to check for arm update
+[2016-07-30 04:08:21:0391] could not find valid preference in product specific registry
+[2016-07-30 04:08:21:0391] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 04:08:21:0391] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 04:08:21:0391] ProductVersion: 11.0.17
+[2016-07-30 04:08:21:0392] ProductUACPatching: enabled
+[2016-07-30 04:08:21:0535] Using registered preference AUTO_ALL
+[2016-07-30 04:08:21:0536] Last check for updates not expired
+[2016-07-30 04:08:21:0536]    Error Code: 120300
+[2016-07-30 04:08:21:0751] ARM returns ERROR_SUCCESS
+[2016-07-30 04:08:21:0751] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 13:23:47:0250] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 13:23:47:0438] Command Line: 
+[2016-07-30 13:23:50:0101] Too soon to check for arm update
+[2016-07-30 13:23:56:0711] could not find valid preference in product specific registry
+[2016-07-30 13:23:56:0711] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 13:23:56:0711] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 13:23:56:0711] ProductVersion: 11.0.17
+[2016-07-30 13:23:56:0711] ProductUACPatching: enabled
+[2016-07-30 13:23:56:0967] Using registered preference AUTO_ALL
+[2016-07-30 13:23:56:0968] Last check for updates not expired
+[2016-07-30 13:23:56:0968]    Error Code: 120300
+[2016-07-30 13:23:57:0252] ARM returns ERROR_SUCCESS
+[2016-07-30 13:23:57:0252] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 16:52:32:0778] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 16:52:33:0015] Command Line: 
+[2016-07-30 16:52:33:0228] Too soon to check for arm update
+[2016-07-30 16:52:33:0521] could not find valid preference in product specific registry
+[2016-07-30 16:52:33:0521] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 16:52:33:0521] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 16:52:33:0521] ProductVersion: 11.0.17
+[2016-07-30 16:52:33:0521] ProductUACPatching: enabled
+[2016-07-30 16:52:33:0597] Using registered preference AUTO_ALL
+[2016-07-30 16:52:33:0599] Last check for updates not expired
+[2016-07-30 16:52:33:0599]    Error Code: 120300
+[2016-07-30 16:52:33:0805] ARM returns ERROR_SUCCESS
+[2016-07-30 16:52:33:0805] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 20:00:00:0308] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 20:00:00:0345] Command Line: 
+[2016-07-30 20:00:00:0503] Too soon to check for arm update
+[2016-07-30 20:00:00:0539] could not find valid preference in product specific registry
+[2016-07-30 20:00:00:0540] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 20:00:00:0540] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 20:00:00:0540] ProductVersion: 11.0.17
+[2016-07-30 20:00:00:0540] ProductUACPatching: enabled
+[2016-07-30 20:00:00:0619] Using registered preference AUTO_ALL
+[2016-07-30 20:00:00:0620] Last check for updates not expired
+[2016-07-30 20:00:00:0620]    Error Code: 120300
+[2016-07-30 20:00:00:0825] ARM returns ERROR_SUCCESS
+[2016-07-30 20:00:00:0825] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 20:22:33:0637] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 20:22:33:0637] Command Line: 
+[2016-07-30 20:22:33:0708] Too soon to check for arm update
+[2016-07-30 20:22:33:0711] could not find valid preference in product specific registry
+[2016-07-30 20:22:33:0712] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 20:22:33:0712] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 20:22:33:0712] ProductVersion: 11.0.17
+[2016-07-30 20:22:33:0712] ProductUACPatching: enabled
+[2016-07-30 20:22:33:0769] Using registered preference AUTO_ALL
+[2016-07-30 20:22:33:0769] Last check for updates not expired
+[2016-07-30 20:22:33:0769]    Error Code: 120300
+[2016-07-30 20:22:33:0974] ARM returns ERROR_SUCCESS
+[2016-07-30 20:22:33:0974] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-30 23:52:34:0895] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-30 23:52:34:0974] Command Line: 
+[2016-07-30 23:52:35:0160] Too soon to check for arm update
+[2016-07-30 23:52:35:0165] could not find valid preference in product specific registry
+[2016-07-30 23:52:35:0165] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-30 23:52:35:0165] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-30 23:52:35:0165] ProductVersion: 11.0.17
+[2016-07-30 23:52:35:0165] ProductUACPatching: enabled
+[2016-07-30 23:52:35:0303] Using registered preference AUTO_ALL
+[2016-07-30 23:52:35:0304] Last check for updates not expired
+[2016-07-30 23:52:35:0304]    Error Code: 120300
+[2016-07-30 23:52:35:0509] ARM returns ERROR_SUCCESS
+[2016-07-30 23:52:35:0509] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-31 12:47:05:0321] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-31 12:47:09:0617] Command Line: 
+[2016-07-31 12:47:23:0716] Too soon to check for arm update
+[2016-07-31 12:47:31:0830] could not find valid preference in product specific registry
+[2016-07-31 12:47:31:0832] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-31 12:47:31:0833] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-31 12:47:31:0833] ProductVersion: 11.0.17
+[2016-07-31 12:47:31:0833] ProductUACPatching: enabled
+[2016-07-31 12:47:38:0641] Using registered preference AUTO_ALL
+[2016-07-31 12:47:38:0643] Last check for updates not expired
+[2016-07-31 12:47:38:0643]    Error Code: 120300
+[2016-07-31 12:47:41:0232] ARM returns ERROR_SUCCESS
+[2016-07-31 12:47:41:0232] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-31 16:14:42:0430] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-31 16:14:42:0652] Command Line: 
+[2016-07-31 16:14:44:0327] Too soon to check for arm update
+[2016-07-31 16:14:45:0155] could not find valid preference in product specific registry
+[2016-07-31 16:14:45:0155] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-31 16:14:45:0155] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-31 16:14:45:0155] ProductVersion: 11.0.17
+[2016-07-31 16:14:45:0155] ProductUACPatching: enabled
+[2016-07-31 16:14:45:0959] Using registered preference AUTO_ALL
+[2016-07-31 16:14:45:0960] Last check for updates not expired
+[2016-07-31 16:14:45:0960]    Error Code: 120300
+[2016-07-31 16:14:46:0319] ARM returns ERROR_SUCCESS
+[2016-07-31 16:14:46:0319] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-31 19:44:42:0690] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-31 19:44:42:0763] Command Line: 
+[2016-07-31 19:44:42:0938] Too soon to check for arm update
+[2016-07-31 19:44:43:0050] could not find valid preference in product specific registry
+[2016-07-31 19:44:43:0051] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-31 19:44:43:0051] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-31 19:44:43:0051] ProductVersion: 11.0.17
+[2016-07-31 19:44:43:0051] ProductUACPatching: enabled
+[2016-07-31 19:44:43:0137] Using registered preference AUTO_ALL
+[2016-07-31 19:44:43:0138] Last check for updates not expired
+[2016-07-31 19:44:43:0138]    Error Code: 120300
+[2016-07-31 19:44:43:0342] ARM returns ERROR_SUCCESS
+[2016-07-31 19:44:43:0342] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-31 20:00:00:0335] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-31 20:00:00:0341] Command Line: 
+[2016-07-31 20:00:00:0524] Too soon to check for arm update
+[2016-07-31 20:00:00:0636] could not find valid preference in product specific registry
+[2016-07-31 20:00:00:0636] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-31 20:00:00:0636] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-31 20:00:00:0636] ProductVersion: 11.0.17
+[2016-07-31 20:00:00:0636] ProductUACPatching: enabled
+[2016-07-31 20:00:00:0711] Using registered preference AUTO_ALL
+[2016-07-31 20:00:00:0713] Last check for updates not expired
+[2016-07-31 20:00:00:0713]    Error Code: 120300
+[2016-07-31 20:00:01:0015] ARM returns ERROR_SUCCESS
+[2016-07-31 20:00:01:0015] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-07-31 23:14:43:0592] Adobe ARM 1.824.19.1728 logging started.
+[2016-07-31 23:14:43:0598] Command Line: 
+[2016-07-31 23:15:12:0069] Newer version ARM update is not available
+[2016-07-31 23:15:12:0161] could not find valid preference in product specific registry
+[2016-07-31 23:15:12:0161] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-07-31 23:15:12:0161] ProductName: Adobe Reader XI (11.0.17)
+[2016-07-31 23:15:12:0161] ProductVersion: 11.0.17
+[2016-07-31 23:15:12:0161] ProductUACPatching: enabled
+[2016-07-31 23:15:12:0214] Using registered preference AUTO_ALL
+[2016-07-31 23:15:12:0214] Last check for updates not expired
+[2016-07-31 23:15:12:0214]    Error Code: 120300
+[2016-07-31 23:15:12:0418] ARM returns ERROR_SUCCESS
+[2016-07-31 23:15:12:0418] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-01 02:44:44:0591] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-01 02:44:44:0630] Command Line: 
+[2016-08-01 02:44:44:0810] Too soon to check for arm update
+[2016-08-01 02:44:45:0005] could not find valid preference in product specific registry
+[2016-08-01 02:44:45:0006] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-01 02:44:45:0006] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-01 02:44:45:0006] ProductVersion: 11.0.17
+[2016-08-01 02:44:45:0006] ProductUACPatching: enabled
+[2016-08-01 02:44:45:0118] Using registered preference AUTO_ALL
+[2016-08-01 02:44:45:0119] Last check for updates not expired
+[2016-08-01 02:44:45:0119]    Error Code: 120300
+[2016-08-01 02:44:45:0328] ARM returns ERROR_SUCCESS
+[2016-08-01 02:44:45:0328] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-01 06:14:45:0638] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-01 06:14:45:0651] Command Line: 
+[2016-08-01 06:14:45:0833] Too soon to check for arm update
+[2016-08-01 06:14:45:0943] could not find valid preference in product specific registry
+[2016-08-01 06:14:45:0943] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-01 06:14:45:0943] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-01 06:14:45:0943] ProductVersion: 11.0.17
+[2016-08-01 06:14:45:0943] ProductUACPatching: enabled
+[2016-08-01 06:14:46:0032] Using registered preference AUTO_ALL
+[2016-08-01 06:14:46:0033] Last check for updates not expired
+[2016-08-01 06:14:46:0033]    Error Code: 120300
+[2016-08-01 06:14:46:0238] ARM returns ERROR_SUCCESS
+[2016-08-01 06:14:46:0238] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-01 09:44:46:0621] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-01 09:44:46:0626] Command Line: 
+[2016-08-01 09:44:46:0758] Too soon to check for arm update
+[2016-08-01 09:44:46:0840] could not find valid preference in product specific registry
+[2016-08-01 09:44:46:0840] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-01 09:44:46:0840] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-01 09:44:46:0840] ProductVersion: 11.0.17
+[2016-08-01 09:44:46:0840] ProductUACPatching: enabled
+[2016-08-01 09:44:46:0907] Using registered preference AUTO_ALL
+[2016-08-01 09:44:46:0908] Last check for updates not expired
+[2016-08-01 09:44:46:0908]    Error Code: 120300
+[2016-08-01 09:44:47:0113] ARM returns ERROR_SUCCESS
+[2016-08-01 09:44:47:0113] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-01 14:03:09:0097] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-01 14:03:13:0672] Command Line: 
+[2016-08-01 14:03:19:0178] Too soon to check for arm update
+[2016-08-01 16:15:01:0192] could not find valid preference in product specific registry
+[2016-08-01 16:15:01:0193] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-01 16:15:01:0193] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-01 16:15:01:0193] ProductVersion: 11.0.17
+[2016-08-01 16:15:01:0193] ProductUACPatching: enabled
+[2016-08-01 16:15:03:0380] Using registered preference AUTO_ALL
+[2016-08-01 16:15:03:0381] Last check for updates not expired
+[2016-08-01 16:15:03:0381]    Error Code: 120300
+[2016-08-01 16:15:13:0648] ARM returns ERROR_SUCCESS
+[2016-08-01 16:15:13:0648] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-05 14:40:07:0265] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-05 14:40:08:0336] Command Line: 
+[2016-08-05 14:41:15:0453] Newer version ARM update is not available
+[2016-08-05 14:41:20:0265] could not find valid preference in product specific registry
+[2016-08-05 14:41:20:0266] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-05 14:41:20:0266] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-05 14:41:20:0266] ProductVersion: 11.0.17
+[2016-08-05 14:41:20:0266] ProductUACPatching: enabled
+[2016-08-05 14:41:20:0459] Using registered preference AUTO_ALL
+[2016-08-05 14:41:53:0092] Registered time expired
+[2016-08-05 14:41:53:0092] Registered time expired
+[2016-08-05 14:42:05:0745] New file object: AcroRdrDC1500720033_en_US.exe
+[2016-08-05 14:42:05:0745] New file object: AcroRdrDCUpd1501020056.msp
+
+
+
+[2016-08-06 18:57:12:0484] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-06 18:57:13:0113] Command Line: 
+[2016-08-06 18:57:42:0376] Too soon to check for arm update
+[2016-08-06 18:57:45:0119] could not find valid preference in product specific registry
+[2016-08-06 18:57:45:0120] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-06 18:57:45:0120] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-06 18:57:45:0120] ProductVersion: 11.0.17
+[2016-08-06 18:57:45:0120] ProductUACPatching: enabled
+[2016-08-06 18:57:45:0671] Using registered preference AUTO_ALL
+[2016-08-06 18:59:34:0601] Registered time expired
+[2016-08-06 18:59:34:0601] Registered time not expired
+[2016-08-06 18:59:34:0605] No files in Session, setting NO_UPDATES mode
+[2016-08-06 18:59:37:0425] ARM returns ERROR_SUCCESS
+[2016-08-06 18:59:37:0425] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-06 20:00:00:0996] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-06 20:00:00:0996] Command Line: 
+[2016-08-06 20:00:01:0080] Too soon to check for arm update
+[2016-08-06 20:00:01:0084] could not find valid preference in product specific registry
+[2016-08-06 20:00:01:0084] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-06 20:00:01:0084] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-06 20:00:01:0084] ProductVersion: 11.0.17
+[2016-08-06 20:00:01:0084] ProductUACPatching: enabled
+[2016-08-06 20:00:01:0141] Using registered preference AUTO_ALL
+[2016-08-06 20:00:01:0142] Last check for updates not expired
+[2016-08-06 20:00:01:0142]    Error Code: 120300
+[2016-08-06 20:00:01:0346] ARM returns ERROR_SUCCESS
+[2016-08-06 20:00:01:0346] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-06 22:25:29:0599] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-06 22:25:29:0675] Command Line: 
+[2016-08-06 22:25:29:0828] Too soon to check for arm update
+[2016-08-06 22:25:29:0841] could not find valid preference in product specific registry
+[2016-08-06 22:25:29:0842] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-06 22:25:29:0842] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-06 22:25:29:0842] ProductVersion: 11.0.17
+[2016-08-06 22:25:29:0842] ProductUACPatching: enabled
+[2016-08-06 22:25:29:0917] Using registered preference AUTO_ALL
+[2016-08-06 22:25:29:0919] Last check for updates not expired
+[2016-08-06 22:25:29:0919]    Error Code: 120300
+[2016-08-06 22:25:30:0219] ARM returns ERROR_SUCCESS
+[2016-08-06 22:25:30:0219] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-07 01:55:30:0649] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-07 01:55:30:0659] Command Line: 
+[2016-08-07 01:55:30:0806] Too soon to check for arm update
+[2016-08-07 01:55:30:0887] could not find valid preference in product specific registry
+[2016-08-07 01:55:30:0888] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-07 01:55:30:0888] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-07 01:55:30:0888] ProductVersion: 11.0.17
+[2016-08-07 01:55:30:0888] ProductUACPatching: enabled
+[2016-08-07 01:55:30:0950] Using registered preference AUTO_ALL
+[2016-08-07 01:55:30:0951] Last check for updates not expired
+[2016-08-07 01:55:30:0951]    Error Code: 120300
+[2016-08-07 01:55:31:0156] ARM returns ERROR_SUCCESS
+[2016-08-07 01:55:31:0156] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-07 05:25:31:0594] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-07 05:25:31:0594] Command Line: 
+[2016-08-07 05:25:31:0672] Too soon to check for arm update
+[2016-08-07 05:25:31:0675] could not find valid preference in product specific registry
+[2016-08-07 05:25:31:0675] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-07 05:25:31:0675] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-07 05:25:31:0675] ProductVersion: 11.0.17
+[2016-08-07 05:25:31:0675] ProductUACPatching: enabled
+[2016-08-07 05:25:31:0730] Using registered preference AUTO_ALL
+[2016-08-07 05:25:31:0731] Last check for updates not expired
+[2016-08-07 05:25:31:0731]    Error Code: 120300
+[2016-08-07 05:25:31:0944] ARM returns ERROR_SUCCESS
+[2016-08-07 05:25:31:0944] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-08 19:13:06:0829] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-08 19:13:07:0193] Command Line: 
+[2016-08-08 19:14:01:0716] Newer version ARM update is not available
+[2016-08-08 19:14:02:0216] could not find valid preference in product specific registry
+[2016-08-08 19:14:02:0216] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-08 19:14:02:0216] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-08 19:14:02:0216] ProductVersion: 11.0.17
+[2016-08-08 19:14:02:0216] ProductUACPatching: enabled
+[2016-08-08 19:14:02:0316] Using registered preference AUTO_ALL
+[2016-08-08 19:14:02:0317] Last check for updates not expired
+[2016-08-08 19:14:02:0317]    Error Code: 120300
+[2016-08-08 19:14:02:0533] ARM returns ERROR_SUCCESS
+[2016-08-08 19:14:02:0533] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-08 19:14:46:0069] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-08 19:14:46:0069] Command Line: 
+[2016-08-08 19:14:51:0438] Too soon to check for arm update
+[2016-08-08 19:14:51:0441] could not find valid preference in product specific registry
+[2016-08-08 19:14:51:0441] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-08 19:14:51:0441] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-08 19:14:51:0441] ProductVersion: 11.0.17
+[2016-08-08 19:14:51:0441] ProductUACPatching: enabled
+[2016-08-08 19:14:51:0495] Using registered preference AUTO_ALL
+[2016-08-08 19:14:51:0496] Last check for updates not expired
+[2016-08-08 19:14:51:0496]    Error Code: 120300
+[2016-08-08 19:14:51:0701] ARM returns ERROR_SUCCESS
+[2016-08-08 19:14:51:0701] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-08 20:00:00:0915] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-08 20:00:00:0915] Command Line: 
+[2016-08-08 20:00:00:0999] Too soon to check for arm update
+[2016-08-08 20:00:01:0003] could not find valid preference in product specific registry
+[2016-08-08 20:00:01:0003] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-08 20:00:01:0003] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-08 20:00:01:0003] ProductVersion: 11.0.17
+[2016-08-08 20:00:01:0003] ProductUACPatching: enabled
+[2016-08-08 20:00:01:0068] Using registered preference AUTO_ALL
+[2016-08-08 20:00:01:0069] Last check for updates not expired
+[2016-08-08 20:00:01:0069]    Error Code: 120300
+[2016-08-08 20:00:01:0272] ARM returns ERROR_SUCCESS
+[2016-08-08 20:00:01:0272] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-09 21:40:49:0099] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-09 21:40:49:0431] Command Line: 
+[2016-08-09 21:40:58:0122] Too soon to check for arm update
+[2016-08-09 21:40:58:0907] could not find valid preference in product specific registry
+[2016-08-09 21:40:58:0907] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-09 21:40:58:0907] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-09 21:40:58:0907] ProductVersion: 11.0.17
+[2016-08-09 21:40:58:0907] ProductUACPatching: enabled
+[2016-08-09 21:40:59:0618] Using registered preference AUTO_ALL
+[2016-08-09 21:41:49:0754] Registered time expired
+[2016-08-09 21:41:49:0754] Registered time not expired
+[2016-08-09 21:41:49:0756] No files in Session, setting NO_UPDATES mode
+[2016-08-09 21:41:52:0501] ARM returns ERROR_SUCCESS
+[2016-08-09 21:41:52:0501] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-09 21:43:06:0031] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-09 21:43:06:0031] Command Line: 
+[2016-08-09 21:43:11:0164] Too soon to check for arm update
+[2016-08-09 21:43:11:0168] could not find valid preference in product specific registry
+[2016-08-09 21:43:11:0169] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-09 21:43:11:0169] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-09 21:43:11:0169] ProductVersion: 11.0.17
+[2016-08-09 21:43:11:0169] ProductUACPatching: enabled
+[2016-08-09 21:43:11:0232] Using registered preference AUTO_ALL
+[2016-08-09 21:43:11:0233] Last check for updates not expired
+[2016-08-09 21:43:11:0233]    Error Code: 120300
+[2016-08-09 21:43:11:0472] ARM returns ERROR_SUCCESS
+[2016-08-09 21:43:11:0486] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-12 18:17:52:0469] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-12 18:17:53:0847] Command Line: 
+[2016-08-12 18:18:27:0262] Newer version ARM update is not available
+[2016-08-12 18:18:28:0337] could not find valid preference in product specific registry
+[2016-08-12 18:18:28:0337] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-12 18:18:28:0337] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-12 18:18:28:0337] ProductVersion: 11.0.17
+[2016-08-12 18:18:28:0337] ProductUACPatching: enabled
+[2016-08-12 18:18:28:0812] Using registered preference AUTO_ALL
+[2016-08-12 18:18:28:0813] Last check for updates not expired
+[2016-08-12 18:18:28:0813]    Error Code: 120300
+[2016-08-12 18:18:29:0023] ARM returns ERROR_SUCCESS
+[2016-08-12 18:18:29:0023] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-12 18:19:20:0298] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-12 18:19:20:0298] Command Line: 
+[2016-08-12 18:19:21:0056] Too soon to check for arm update
+[2016-08-12 18:19:21:0059] could not find valid preference in product specific registry
+[2016-08-12 18:19:21:0059] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-12 18:19:21:0059] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-12 18:19:21:0059] ProductVersion: 11.0.17
+[2016-08-12 18:19:21:0059] ProductUACPatching: enabled
+[2016-08-12 18:19:21:0126] Using registered preference AUTO_ALL
+[2016-08-12 18:19:21:0127] Last check for updates not expired
+[2016-08-12 18:19:21:0127]    Error Code: 120300
+[2016-08-12 18:19:21:0331] ARM returns ERROR_SUCCESS
+[2016-08-12 18:19:21:0331] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-12 20:00:00:0314] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-12 20:00:00:0326] Command Line: 
+[2016-08-12 20:00:00:0421] Too soon to check for arm update
+[2016-08-12 20:00:00:0425] could not find valid preference in product specific registry
+[2016-08-12 20:00:00:0425] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-12 20:00:00:0425] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-12 20:00:00:0425] ProductVersion: 11.0.17
+[2016-08-12 20:00:00:0426] ProductUACPatching: enabled
+[2016-08-12 20:00:00:0480] Using registered preference AUTO_ALL
+[2016-08-12 20:00:00:0481] Last check for updates not expired
+[2016-08-12 20:00:00:0481]    Error Code: 120300
+[2016-08-12 20:00:00:0696] ARM returns ERROR_SUCCESS
+[2016-08-12 20:00:00:0696] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-12 21:46:20:0624] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-12 21:46:20:0624] Command Line: 
+[2016-08-12 21:46:20:0706] Too soon to check for arm update
+[2016-08-12 21:46:20:0709] could not find valid preference in product specific registry
+[2016-08-12 21:46:20:0710] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-12 21:46:20:0710] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-12 21:46:20:0710] ProductVersion: 11.0.17
+[2016-08-12 21:46:20:0710] ProductUACPatching: enabled
+[2016-08-12 21:46:20:0765] Using registered preference AUTO_ALL
+[2016-08-12 21:46:30:0313] Registered time expired
+[2016-08-12 21:46:30:0313] Registered time expired
+[2016-08-12 21:46:31:0402] New file object: AcroRdrDC1500720033_en_US.exe
+[2016-08-12 21:46:31:0402] New file object: AcroRdrDCUpd1501020056.msp
+
+
+
+[2016-08-13 01:16:21:0626] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-13 01:16:21:0626] Command Line: 
+[2016-08-13 01:16:24:0219] Too soon to check for arm update
+[2016-08-13 01:16:24:0223] could not find valid preference in product specific registry
+[2016-08-13 01:16:24:0223] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-13 01:16:24:0223] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-13 01:16:24:0223] ProductVersion: 11.0.17
+[2016-08-13 01:16:24:0223] ProductUACPatching: enabled
+[2016-08-13 01:16:24:0280] Using registered preference AUTO_ALL
+[2016-08-13 01:16:25:0644] Registered time expired
+[2016-08-13 01:16:25:0644] Registered time not expired
+[2016-08-13 01:16:25:0646] No files in Session, setting NO_UPDATES mode
+[2016-08-13 01:16:28:0369] ARM returns ERROR_SUCCESS
+[2016-08-13 01:16:28:0369] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-13 04:46:22:0626] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-13 04:46:22:0626] Command Line: 
+[2016-08-13 04:46:22:0705] Too soon to check for arm update
+[2016-08-13 04:46:22:0708] could not find valid preference in product specific registry
+[2016-08-13 04:46:22:0708] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-13 04:46:22:0709] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-13 04:46:22:0709] ProductVersion: 11.0.17
+[2016-08-13 04:46:22:0709] ProductUACPatching: enabled
+[2016-08-13 04:46:22:0762] Using registered preference AUTO_ALL
+[2016-08-13 04:46:22:0763] Last check for updates not expired
+[2016-08-13 04:46:22:0763]    Error Code: 120300
+[2016-08-13 04:46:22:0967] ARM returns ERROR_SUCCESS
+[2016-08-13 04:46:22:0967] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-14 22:29:21:0054] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-14 22:29:21:0475] Command Line: 
+[2016-08-14 22:29:41:0008] Too soon to check for arm update
+[2016-08-14 22:29:55:0552] could not find valid preference in product specific registry
+[2016-08-14 22:29:55:0552] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-14 22:29:55:0552] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-14 22:29:55:0552] ProductVersion: 11.0.17
+[2016-08-14 22:29:55:0552] ProductUACPatching: enabled
+[2016-08-14 22:29:57:0730] Using registered preference AUTO_ALL
+[2016-08-14 22:29:57:0731] Last check for updates not expired
+[2016-08-14 22:29:57:0731]    Error Code: 120300
+[2016-08-14 22:29:58:0459] ARM returns ERROR_SUCCESS
+[2016-08-14 22:29:58:0459] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-14 22:31:01:0312] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-14 22:31:01:0312] Command Line: 
+[2016-08-14 22:31:07:0343] Too soon to check for arm update
+[2016-08-14 22:31:07:0346] could not find valid preference in product specific registry
+[2016-08-14 22:31:07:0347] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-14 22:31:07:0347] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-14 22:31:07:0347] ProductVersion: 11.0.17
+[2016-08-14 22:31:07:0347] ProductUACPatching: enabled
+[2016-08-14 22:31:07:0888] Using registered preference AUTO_ALL
+[2016-08-14 22:31:07:0889] Last check for updates not expired
+[2016-08-14 22:31:07:0889]    Error Code: 120300
+[2016-08-14 22:31:08:0101] ARM returns ERROR_SUCCESS
+[2016-08-14 22:31:08:0101] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-15 03:06:40:0699] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-15 03:06:40:0699] Command Line: 
+[2016-08-15 03:06:40:0773] Too soon to check for arm update
+[2016-08-15 03:06:40:0776] could not find valid preference in product specific registry
+[2016-08-15 03:06:40:0776] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-15 03:06:40:0776] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-15 03:06:40:0776] ProductVersion: 11.0.17
+[2016-08-15 03:06:40:0776] ProductUACPatching: enabled
+[2016-08-15 03:06:40:0842] Using registered preference AUTO_ALL
+[2016-08-15 03:06:40:0843] Last check for updates not expired
+[2016-08-15 03:06:40:0843]    Error Code: 120300
+[2016-08-15 03:06:45:0025] ARM returns ERROR_SUCCESS
+[2016-08-15 03:06:45:0025] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-16 09:37:24:0342] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-16 09:37:24:0827] Command Line: 
+[2016-08-16 09:38:38:0447] Newer version ARM update is not available
+[2016-08-16 09:38:46:0429] could not find valid preference in product specific registry
+[2016-08-16 09:38:46:0429] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-16 09:38:46:0429] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-16 09:38:46:0429] ProductVersion: 11.0.17
+[2016-08-16 09:38:46:0429] ProductUACPatching: enabled
+[2016-08-16 09:38:47:0836] Using registered preference AUTO_ALL
+[2016-08-16 09:38:57:0925] Registered time expired
+[2016-08-16 09:38:57:0925] Registered time not expired
+[2016-08-16 09:38:57:0930] No files in Session, setting NO_UPDATES mode
+[2016-08-16 09:39:00:0657] ARM returns ERROR_SUCCESS
+[2016-08-16 09:39:00:0657] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-16 19:37:48:0836] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-16 19:37:59:0858] Command Line: 
+[2016-08-16 19:38:29:0232] Too soon to check for arm update
+[2016-08-16 19:38:34:0770] could not find valid preference in product specific registry
+[2016-08-16 19:38:34:0770] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-16 19:38:34:0770] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-16 19:38:34:0770] ProductVersion: 11.0.17
+[2016-08-16 19:38:34:0770] ProductUACPatching: enabled
+[2016-08-16 19:38:35:0368] Using registered preference AUTO_ALL
+[2016-08-16 19:38:35:0368] Last check for updates not expired
+[2016-08-16 19:38:35:0368]    Error Code: 120300
+[2016-08-16 19:38:35:0684] ARM returns ERROR_SUCCESS
+[2016-08-16 19:38:35:0684] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-16 20:00:00:0810] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-16 20:00:00:0810] Command Line: 
+[2016-08-16 20:00:00:0883] Too soon to check for arm update
+[2016-08-16 20:00:00:0886] could not find valid preference in product specific registry
+[2016-08-16 20:00:00:0886] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-16 20:00:00:0887] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-16 20:00:00:0887] ProductVersion: 11.0.17
+[2016-08-16 20:00:00:0887] ProductUACPatching: enabled
+[2016-08-16 20:00:00:0947] Using registered preference AUTO_ALL
+[2016-08-16 20:00:00:0948] Last check for updates not expired
+[2016-08-16 20:00:00:0948]    Error Code: 120300
+[2016-08-16 20:00:01:0162] ARM returns ERROR_SUCCESS
+[2016-08-16 20:00:01:0162] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-16 23:28:26:0164] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-16 23:28:26:0164] Command Line: 
+[2016-08-16 23:28:26:0730] Too soon to check for arm update
+[2016-08-16 23:28:26:0731] could not find valid preference in product specific registry
+[2016-08-16 23:28:26:0731] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-16 23:28:26:0731] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-16 23:28:26:0731] ProductVersion: 11.0.17
+[2016-08-16 23:28:26:0731] ProductUACPatching: enabled
+[2016-08-16 23:28:26:0795] Using registered preference AUTO_ALL
+[2016-08-16 23:28:26:0795] Last check for updates not expired
+[2016-08-16 23:28:26:0795]    Error Code: 120300
+[2016-08-16 23:28:27:0532] ARM returns ERROR_SUCCESS
+[2016-08-16 23:28:27:0532] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-17 03:06:02:0101] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-17 03:06:02:0102] Command Line: 
+[2016-08-17 18:50:35:0786] Too soon to check for arm update
+[2016-08-17 18:50:38:0697] could not find valid preference in product specific registry
+[2016-08-17 18:50:38:0697] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-17 18:50:38:0697] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-17 18:50:38:0697] ProductVersion: 11.0.17
+[2016-08-17 18:50:38:0697] ProductUACPatching: enabled
+[2016-08-17 18:50:38:0950] Using registered preference AUTO_ALL
+[2016-08-17 18:50:38:0951] Last check for updates not expired
+[2016-08-17 18:50:38:0951]    Error Code: 120300
+[2016-08-17 18:50:39:0421] ARM returns ERROR_SUCCESS
+[2016-08-17 18:50:39:0421] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-17 20:00:00:0912] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-17 20:00:00:0912] Command Line: 
+[2016-08-17 20:00:01:0001] Too soon to check for arm update
+[2016-08-17 20:00:01:0003] could not find valid preference in product specific registry
+[2016-08-17 20:00:01:0004] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-17 20:00:01:0004] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-17 20:00:01:0004] ProductVersion: 11.0.17
+[2016-08-17 20:00:01:0004] ProductUACPatching: enabled
+[2016-08-17 20:00:01:0057] Using registered preference AUTO_ALL
+[2016-08-17 20:00:01:0058] Last check for updates not expired
+[2016-08-17 20:00:01:0058]    Error Code: 120300
+[2016-08-17 20:00:01:0262] ARM returns ERROR_SUCCESS
+[2016-08-17 20:00:01:0262] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-17 23:40:50:0578] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-17 23:40:53:0929] Command Line: 
+[2016-08-17 23:40:54:0076] Too soon to check for arm update
+[2016-08-17 23:40:54:0076] could not find valid preference in product specific registry
+[2016-08-17 23:40:54:0076] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-17 23:40:54:0076] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-17 23:40:54:0076] ProductVersion: 11.0.17
+[2016-08-17 23:40:54:0076] ProductUACPatching: enabled
+[2016-08-17 23:40:54:0643] Using registered preference AUTO_ALL
+[2016-08-17 23:40:54:0643] Last check for updates not expired
+[2016-08-17 23:40:54:0643]    Error Code: 120300
+[2016-08-17 23:40:54:0852] ARM returns ERROR_SUCCESS
+[2016-08-17 23:40:54:0852] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-18 15:16:37:0782] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-18 15:16:38:0740] Command Line: 
+[2016-08-18 15:17:19:0263] Too soon to check for arm update
+[2016-08-18 15:17:31:0093] could not find valid preference in product specific registry
+[2016-08-18 15:17:31:0093] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-18 15:17:31:0093] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-18 15:17:31:0093] ProductVersion: 11.0.17
+[2016-08-18 15:17:31:0093] ProductUACPatching: enabled
+[2016-08-18 15:17:31:0882] Using registered preference AUTO_ALL
+[2016-08-18 15:17:31:0883] Last check for updates not expired
+[2016-08-18 15:17:31:0883]    Error Code: 120300
+[2016-08-18 15:17:32:0209] ARM returns ERROR_SUCCESS
+[2016-08-18 15:17:32:0209] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-18 19:41:14:0660] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-18 19:41:14:0660] Command Line: 
+[2016-08-18 19:41:14:0750] Too soon to check for arm update
+[2016-08-18 19:41:14:0752] could not find valid preference in product specific registry
+[2016-08-18 19:41:14:0753] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-18 19:41:14:0753] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-18 19:41:14:0753] ProductVersion: 11.0.17
+[2016-08-18 19:41:14:0753] ProductUACPatching: enabled
+[2016-08-18 19:41:15:0148] Using registered preference AUTO_ALL
+[2016-08-18 19:41:15:0149] Last check for updates not expired
+[2016-08-18 19:41:15:0149]    Error Code: 120300
+[2016-08-18 19:41:15:0467] ARM returns ERROR_SUCCESS
+[2016-08-18 19:41:15:0467] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-21 06:08:45:0223] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-21 06:08:46:0853] Command Line: 
+[2016-08-21 06:09:56:0925] Newer version ARM update is not available
+[2016-08-21 06:09:58:0026] could not find valid preference in product specific registry
+[2016-08-21 06:09:58:0027] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-21 06:09:58:0027] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-21 06:09:58:0027] ProductVersion: 11.0.17
+[2016-08-21 06:09:58:0027] ProductUACPatching: enabled
+[2016-08-21 06:09:58:0434] Using registered preference AUTO_ALL
+[2016-08-21 06:10:29:0772] Registered time expired
+[2016-08-21 06:10:29:0772] Registered time expired
+[2016-08-21 06:10:30:0860] New file object: AcroRdrDC1500720033_en_US.exe
+[2016-08-21 06:10:30:0861] New file object: AcroRdrDCUpd1501020056.msp
+
+
+
+[2016-08-21 09:37:12:0593] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-21 09:37:12:0609] Command Line: 
+[2016-08-21 09:37:15:0379] Too soon to check for arm update
+[2016-08-21 09:37:15:0445] could not find valid preference in product specific registry
+[2016-08-21 09:37:15:0445] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-21 09:37:15:0445] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-21 09:37:15:0445] ProductVersion: 11.0.17
+[2016-08-21 09:37:15:0445] ProductUACPatching: enabled
+[2016-08-21 09:37:15:0494] Using registered preference AUTO_ALL
+[2016-08-21 09:37:25:0156] Registered time expired
+[2016-08-21 09:37:25:0156] Registered time not expired
+[2016-08-21 09:37:25:0171] No files in Session, setting NO_UPDATES mode
+[2016-08-21 09:37:27:0934] ARM returns ERROR_SUCCESS
+[2016-08-21 09:37:27:0934] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-21 15:17:10:0627] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-21 15:17:10:0627] Command Line: 
+[2016-08-21 15:17:10:0845] Too soon to check for arm update
+[2016-08-21 15:17:10:0849] could not find valid preference in product specific registry
+[2016-08-21 15:17:10:0850] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-21 15:17:10:0850] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-21 15:17:10:0850] ProductVersion: 11.0.17
+[2016-08-21 15:17:10:0850] ProductUACPatching: enabled
+[2016-08-21 15:17:10:0945] Using registered preference AUTO_ALL
+[2016-08-21 15:17:10:0946] Last check for updates not expired
+[2016-08-21 15:17:10:0946]    Error Code: 120300
+[2016-08-21 15:17:11:0255] ARM returns ERROR_SUCCESS
+[2016-08-21 15:17:11:0255] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-21 16:37:14:0630] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-21 16:37:14:0641] Command Line: 
+[2016-08-21 16:37:14:0829] Too soon to check for arm update
+[2016-08-21 16:37:14:0901] could not find valid preference in product specific registry
+[2016-08-21 16:37:14:0901] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-21 16:37:14:0901] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-21 16:37:14:0901] ProductVersion: 11.0.17
+[2016-08-21 16:37:14:0901] ProductUACPatching: enabled
+[2016-08-21 16:37:14:0941] Using registered preference AUTO_ALL
+[2016-08-21 16:37:14:0941] Last check for updates not expired
+[2016-08-21 16:37:14:0941]    Error Code: 120300
+[2016-08-21 16:37:15:0168] ARM returns ERROR_SUCCESS
+[2016-08-21 16:37:15:0168] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-23 21:08:44:0089] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-23 21:08:44:0148] Command Line: 
+[2016-08-23 21:08:45:0942] Too soon to check for arm update
+[2016-08-23 21:08:46:0511] could not find valid preference in product specific registry
+[2016-08-23 21:08:46:0512] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-23 21:08:46:0512] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-23 21:08:46:0512] ProductVersion: 11.0.17
+[2016-08-23 21:08:46:0512] ProductUACPatching: enabled
+[2016-08-23 21:08:48:0137] Using registered preference AUTO_ALL
+[2016-08-23 21:08:48:0138] Last check for updates not expired
+[2016-08-23 21:08:48:0138]    Error Code: 120300
+[2016-08-23 21:08:48:0520] ARM returns ERROR_SUCCESS
+[2016-08-23 21:08:48:0520] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-24 00:20:12:0824] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-24 00:20:15:0127] Command Line: 
+[2016-08-24 00:20:16:0056] Too soon to check for arm update
+[2016-08-24 00:20:16:0056] could not find valid preference in product specific registry
+[2016-08-24 00:20:16:0056] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-24 00:20:16:0056] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-24 00:20:16:0056] ProductVersion: 11.0.17
+[2016-08-24 00:20:16:0056] ProductUACPatching: enabled
+[2016-08-24 00:20:16:0071] Using registered preference AUTO_ALL
+[2016-08-24 00:20:16:0071] Last check for updates not expired
+[2016-08-24 00:20:16:0071]    Error Code: 120300
+[2016-08-24 00:20:16:0303] ARM returns ERROR_SUCCESS
+[2016-08-24 00:20:16:0303] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-24 17:50:58:0834] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-24 17:50:59:0133] Command Line: 
+
+
+
+[2016-08-24 20:59:12:0191] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-24 20:59:12:0862] Command Line: 
+
+
+
+[2016-08-25 19:33:43:0385] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-25 19:33:48:0386] Command Line: 
+[2016-08-25 19:42:18:0070] Newer version ARM update is not available
+[2016-08-25 19:42:19:0771] could not find valid preference in product specific registry
+[2016-08-25 19:42:19:0771] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-25 19:42:19:0771] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-25 19:42:19:0771] ProductVersion: 11.0.17
+[2016-08-25 19:42:19:0771] ProductUACPatching: enabled
+[2016-08-25 19:42:19:0871] Using registered preference AUTO_ALL
+[2016-08-25 19:43:14:0097] Registered time expired
+[2016-08-25 19:43:14:0112] Registered time not expired
+[2016-08-25 19:43:14:0115] No files in Session, setting NO_UPDATES mode
+[2016-08-25 19:43:16:0861] ARM returns ERROR_SUCCESS
+[2016-08-25 19:43:16:0861] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-25 20:00:00:0219] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-25 20:00:00:0219] Command Line: 
+[2016-08-25 20:00:00:0319] Too soon to check for arm update
+[2016-08-25 20:00:00:0319] could not find valid preference in product specific registry
+[2016-08-25 20:00:00:0319] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-25 20:00:00:0319] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-25 20:00:00:0319] ProductVersion: 11.0.17
+[2016-08-25 20:00:00:0319] ProductUACPatching: enabled
+[2016-08-25 20:00:00:0366] Using registered preference AUTO_ALL
+[2016-08-25 20:00:00:0366] Last check for updates not expired
+[2016-08-25 20:00:00:0366]    Error Code: 120300
+[2016-08-25 20:00:00:0586] ARM returns ERROR_SUCCESS
+[2016-08-25 20:00:00:0586] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-25 23:05:37:0636] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-25 23:05:37:0636] Command Line: 
+
+
+
+[2016-08-27 17:15:59:0645] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-27 17:15:59:0645] Command Line: 
+[2016-08-27 17:16:27:0772] Too soon to check for arm update
+[2016-08-27 17:16:32:0543] could not find valid preference in product specific registry
+[2016-08-27 17:16:32:0543] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-27 17:16:32:0543] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-27 17:16:32:0543] ProductVersion: 11.0.17
+[2016-08-27 17:16:32:0543] ProductUACPatching: enabled
+[2016-08-27 17:16:32:0684] Using registered preference AUTO_ALL
+[2016-08-27 17:16:32:0684] Last check for updates not expired
+[2016-08-27 17:16:32:0684]    Error Code: 120300
+[2016-08-27 17:16:33:0094] ARM returns ERROR_SUCCESS
+[2016-08-27 17:16:33:0094] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-27 20:00:00:0272] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-27 20:00:00:0295] Command Line: 
+[2016-08-27 20:00:00:0395] Too soon to check for arm update
+[2016-08-27 20:00:00:0411] could not find valid preference in product specific registry
+[2016-08-27 20:00:00:0411] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-27 20:00:00:0411] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-27 20:00:00:0411] ProductVersion: 11.0.17
+[2016-08-27 20:00:00:0411] ProductUACPatching: enabled
+[2016-08-27 20:00:00:0458] Using registered preference AUTO_ALL
+[2016-08-27 20:00:00:0458] Last check for updates not expired
+[2016-08-27 20:00:00:0458]    Error Code: 120300
+[2016-08-27 20:00:00:0690] ARM returns ERROR_SUCCESS
+[2016-08-27 20:00:00:0690] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-27 20:42:19:0582] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-27 20:42:19:0582] Command Line: 
+[2016-08-27 20:42:19:0702] Too soon to check for arm update
+[2016-08-27 20:42:19:0703] could not find valid preference in product specific registry
+[2016-08-27 20:42:19:0703] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-27 20:42:19:0703] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-27 20:42:19:0703] ProductVersion: 11.0.17
+[2016-08-27 20:42:19:0703] ProductUACPatching: enabled
+[2016-08-27 20:42:19:0767] Using registered preference AUTO_ALL
+[2016-08-27 20:42:19:0782] Last check for updates not expired
+[2016-08-27 20:42:19:0782]    Error Code: 120300
+[2016-08-27 20:42:19:0989] ARM returns ERROR_SUCCESS
+[2016-08-27 20:42:19:0989] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 00:12:20:0587] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 00:12:20:0587] Command Line: 
+[2016-08-28 00:12:20:0707] Too soon to check for arm update
+[2016-08-28 00:12:20:0707] could not find valid preference in product specific registry
+[2016-08-28 00:12:20:0707] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 00:12:20:0707] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 00:12:20:0707] ProductVersion: 11.0.17
+[2016-08-28 00:12:20:0707] ProductUACPatching: enabled
+[2016-08-28 00:12:20:0757] Using registered preference AUTO_ALL
+[2016-08-28 00:12:20:0757] Last check for updates not expired
+[2016-08-28 00:12:20:0757]    Error Code: 120300
+[2016-08-28 00:12:20:0965] ARM returns ERROR_SUCCESS
+[2016-08-28 00:12:20:0965] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 03:42:21:0599] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 03:42:21:0599] Command Line: 
+[2016-08-28 03:42:21:0719] Too soon to check for arm update
+[2016-08-28 03:42:21:0719] could not find valid preference in product specific registry
+[2016-08-28 03:42:21:0719] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 03:42:21:0719] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 03:42:21:0719] ProductVersion: 11.0.17
+[2016-08-28 03:42:21:0719] ProductUACPatching: enabled
+[2016-08-28 03:42:21:0772] Using registered preference AUTO_ALL
+[2016-08-28 03:42:21:0772] Last check for updates not expired
+[2016-08-28 03:42:21:0772]    Error Code: 120300
+[2016-08-28 03:42:21:0996] ARM returns ERROR_SUCCESS
+[2016-08-28 03:42:21:0996] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 07:12:22:0604] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 07:12:22:0604] Command Line: 
+[2016-08-28 07:12:22:0720] Too soon to check for arm update
+[2016-08-28 07:12:22:0720] could not find valid preference in product specific registry
+[2016-08-28 07:12:22:0735] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 07:12:22:0735] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 07:12:22:0735] ProductVersion: 11.0.17
+[2016-08-28 07:12:22:0735] ProductUACPatching: enabled
+[2016-08-28 07:12:22:0784] Using registered preference AUTO_ALL
+[2016-08-28 07:12:22:0784] Last check for updates not expired
+[2016-08-28 07:12:22:0784]    Error Code: 120300
+[2016-08-28 07:12:22:0988] ARM returns ERROR_SUCCESS
+[2016-08-28 07:12:22:0988] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 10:42:23:0668] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 10:42:23:0684] Command Line: 
+[2016-08-28 10:42:23:0831] Too soon to check for arm update
+[2016-08-28 10:42:23:0932] could not find valid preference in product specific registry
+[2016-08-28 10:42:23:0932] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 10:42:23:0932] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 10:42:23:0932] ProductVersion: 11.0.17
+[2016-08-28 10:42:23:0932] ProductUACPatching: enabled
+[2016-08-28 10:42:23:0969] Using registered preference AUTO_ALL
+[2016-08-28 10:42:23:0985] Last check for updates not expired
+[2016-08-28 10:42:23:0985]    Error Code: 120300
+[2016-08-28 10:42:24:0192] ARM returns ERROR_SUCCESS
+[2016-08-28 10:42:24:0192] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 14:12:24:0619] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 14:12:24:0619] Command Line: 
+[2016-08-28 14:12:24:0724] Too soon to check for arm update
+[2016-08-28 14:12:24:0724] could not find valid preference in product specific registry
+[2016-08-28 14:12:24:0724] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 14:12:24:0724] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 14:12:24:0724] ProductVersion: 11.0.17
+[2016-08-28 14:12:24:0724] ProductUACPatching: enabled
+[2016-08-28 14:12:24:0771] Using registered preference AUTO_ALL
+[2016-08-28 14:12:24:0771] Last check for updates not expired
+[2016-08-28 14:12:24:0771]    Error Code: 120300
+[2016-08-28 14:12:24:0988] ARM returns ERROR_SUCCESS
+[2016-08-28 14:12:24:0988] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 17:42:25:0623] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 17:42:25:0623] Command Line: 
+[2016-08-28 17:42:25:0693] Too soon to check for arm update
+[2016-08-28 17:42:25:0693] could not find valid preference in product specific registry
+[2016-08-28 17:42:25:0693] ProductCode: {AC76BA86-7AD7-1033-7B44-AB0000000001}
+[2016-08-28 17:42:25:0693] ProductName: Adobe Reader XI (11.0.17)
+[2016-08-28 17:42:25:0693] ProductVersion: 11.0.17
+[2016-08-28 17:42:25:0693] ProductUACPatching: enabled
+[2016-08-28 17:42:25:0740] Using registered preference AUTO_ALL
+[2016-08-28 17:42:25:0740] Last check for updates not expired
+[2016-08-28 17:42:25:0740]    Error Code: 120300
+[2016-08-28 17:42:25:0955] ARM returns ERROR_SUCCESS
+[2016-08-28 17:42:25:0955] Adobe ARM 1.824.19.1728 logging finished.
+
+
+
+[2016-08-28 20:00:00:0275] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-28 20:00:00:0275] Command Line: 
+
+
+
+[2016-08-30 11:34:47:0006] Adobe ARM 1.824.19.1728 logging started.
+[2016-08-30 11:34:47:0402] Command Line: 

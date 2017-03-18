@@ -1,0 +1,1096 @@
+[2016/07/30 00:35:55.343] Latest deploy version:  
+[2016/07/30 00:35:55.343] 11.91.2 
+[2016/08/10 10:48:43.451] Latest deploy version:  
+[2016/08/10 10:48:43.451] 11.91.2 
+[2016/08/15 22:07:21.977] Latest deploy version:  
+[2016/08/15 22:07:21.977] 11.91.2 
+[2016/08/23 20:23:45.337] Latest deploy version:  
+[2016/08/23 20:23:45.337] 11.91.2 
+[2016/08/24 20:50:10.631] Latest deploy version:  
+[2016/08/24 20:50:10.632] 11.91.2 
+[2016/08/24 20:53:07.105] isQueryRequest: InstallType InstallHint SET to 0 
+[2016/08/24 20:53:07.105]  InstallType InstallHint SET to 0 
+[2016/08/24 20:53:07.105] RegisterDeploy, version 11.101.2 
+[2016/08/24 20:53:07.105]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:53:07.105]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:53:07.105]  SecurityLevel InstallHint SET to 0 
+[2016/08/24 20:53:07.105] setSecurityLevel - no hints 
+[2016/08/24 20:53:07.105] Set WebJava system security Level  OK 
+[2016/08/24 20:53:07.105]  Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment 
+[2016/08/24 20:53:07.105] Latest deploy version:  
+[2016/08/24 20:53:07.105] 11.91.2 
+[2016/08/24 20:53:07.105]  Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment 
+[2016/08/24 20:53:07.105] registerGivenDeployBin 
+[2016/08/24 20:53:07.105] RegisterWS keys 
+[2016/08/24 20:53:07.105] SetWSCurVersion: JAVAWS_INSTALL:  OK 
+[2016/08/24 20:53:07.105] SetWSCurVersion: JAVAWS_REG_CAPS:  OK 
+[2016/08/24 20:53:07.105] Set system default Webstart Version Keys OK 
+[2016/08/24 20:53:07.120] Latest deploy version:  
+[2016/08/24 20:53:07.120] 11.91.2 
+[2016/08/24 20:53:07.120] Webstart version is newer 
+[2016/08/24 20:53:07.120] Set WebStart compat keys OK 
+[2016/08/24 20:53:07.136] create Webstart browser keys OK 
+[2016/08/24 20:53:07.505] register Webstart with DLLServier OK 
+[2016/08/24 20:53:07.505] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:53:07.505] GetLatestJavawsVersion(): 
+[2016/08/24 20:53:07.505]    checking 32-bit 
+[2016/08/24 20:53:07.505]    Processing key: 1.0.1 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 1.0.1_02 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 1.0.1_03 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 1.0.1_04 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 1.2 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 1.2.0_01 
+[2016/08/24 20:53:07.505]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.505]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.505]    Processing key: 11.101.2 
+[2016/08/24 20:53:07.505]    Processing key: 11.60.2 
+[2016/08/24 20:53:07.505]    Processing key: 11.91.2 
+[2016/08/24 20:53:07.520] GetLatestJavawsVersion(): 
+[2016/08/24 20:53:07.520]    checking 64-bit 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_02 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_03 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_04 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2.0_01 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 11.60.2 
+[2016/08/24 20:53:07.520] GetWebStartCaps(): 
+[2016/08/24 20:53:07.520]    latestVersion: 11.60.2 latestHome: C:\Program Files\Java\jre1.8.0_60\bin 
+[2016/08/24 20:53:07.520] RestoreJNLPProtocolAssociation(): 
+[2016/08/24 20:53:07.520]    Delete HKLM jnlp OK 
+[2016/08/24 20:53:07.520]    Delete HKLM jnlps OK 
+[2016/08/24 20:53:07.520] Set JNLP/JNLPS protocol association OK 
+[2016/08/24 20:53:07.520] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:53:07.520] GetLatestJavawsVersion(): 
+[2016/08/24 20:53:07.520]    checking 32-bit 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_02 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_03 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_04 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2.0_01 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 11.101.2 
+[2016/08/24 20:53:07.520]    Processing key: 11.60.2 
+[2016/08/24 20:53:07.520]    Processing key: 11.91.2 
+[2016/08/24 20:53:07.520] GetLatestJavawsVersion(): 
+[2016/08/24 20:53:07.520]    checking 64-bit 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_02 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_03 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.0.1_04 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 1.2.0_01 
+[2016/08/24 20:53:07.520]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:07.520]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:07.520]    Processing key: 11.60.2 
+[2016/08/24 20:53:07.520]    latestVersion: 11.60.2 latestHome: C:\Program Files\Java\jre1.8.0_60\bin 
+[2016/08/24 20:53:07.536] RestoreJNLPfileAssociation(): 
+[2016/08/24 20:53:07.536]    Create HKLM .jnlp default OK 
+[2016/08/24 20:53:07.536]    Create HKLM .jnlp Content Type OK 
+[2016/08/24 20:53:07.536]    Create HKLM JNLPFile default OK 
+[2016/08/24 20:53:07.536]    Create HKLM JNLPFile EditFlags OK 
+[2016/08/24 20:53:07.536]    Create HKLM JNLPFile Shell Open OK 
+[2016/08/24 20:53:07.536]    Create HKLM JNLPFile Shell Open Command OK 
+[2016/08/24 20:53:07.536] Register JavaWS OK 
+[2016/08/24 20:53:07.536] Latest deploy version:  
+[2016/08/24 20:53:07.536] 11.91.2 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@java.com/DTPlugin,version=11.91.2] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@java.com/JavaPlugin,version=11.91.2] MATCH! 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:53:07.536]   checking mozilla plugin[enlite] 
+[2016/08/24 20:53:07.536] SetMozillaPluginREGKeys: wipeRegistry:  OK 
+[2016/08/24 20:53:07.536] Latest JRE version:  
+[2016/08/24 20:53:07.536] 1.8.0_101 
+[2016/08/24 20:53:07.555] SetMozillaPluginREGKeys: RegJavaPlugin2Mozilla:  OK 
+[2016/08/24 20:53:07.557] set up Mozilla plugin keys  OK 
+[2016/08/24 20:53:07.574] set up IE plugin keys OK 
+[2016/08/24 20:53:07.574] setIEPluginFolderPermissions 
+[2016/08/24 20:53:07.574] DeployHome: C:\Program Files (x86)\Java\jre1.8.0_101 
+[2016/08/24 20:53:08.235] set up folder permissions for IE plugin OK 
+[2016/08/24 20:53:12.346] SSVSetup: RedirectAllStaticVersionKeys OK 
+[2016/08/24 20:53:12.468] SSVSetup: RedirectSelectedStaticVersionKeys OK 
+[2016/08/24 20:53:12.468] SSVSetup OK 
+[2016/08/24 20:53:12.468] Register for elevation 
+[2016/08/24 20:53:12.468] update elevation policy for ssvagent OK 
+[2016/08/24 20:53:12.468] update elevation policy for jp2launcher OK 
+[2016/08/24 20:53:12.484] tell IE to refresh elevation policies after undate registry OK 
+[2016/08/24 20:53:12.484] RegisterforElevation OK 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@java.com/DTPlugin,version=11.91.2] MATCH! 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[enlite] 
+[2016/08/24 20:53:12.484]    Delete HKLM DT CLSID OK 
+[2016/08/24 20:53:12.484]    Delete HKLM OLD DT CLSID OK 
+[2016/08/24 20:53:12.484] RegisterDT: try to register dlls in jre 
+[2016/08/24 20:53:12.484]    FF DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:53:12.484]   checking mozilla plugin[enlite] 
+[2016/08/24 20:53:12.484] DT FF: add plugin key [SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.101.2] => [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll] OK 
+[2016/08/24 20:53:12.484]    IE DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll 
+[2016/08/24 20:53:12.484] DT IE: create CLSID [CLSID\{CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA}] OK 
+[2016/08/24 20:53:12.484] DT IE: create InProcServer32 [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll] OK 
+[2016/08/24 20:53:12.484] DT IE: set apartment threading model OK 
+[2016/08/24 20:53:12.484] DT IE: create 'Implemented Categories' OK 
+[2016/08/24 20:53:12.484] DT IE: create 'Implemented Categories\{59fb2056-d625-48d0-a944-1a85b5ab2640}' OK 
+[2016/08/24 20:53:12.484] DT IE: add DT MIME type OK 
+[2016/08/24 20:53:12.484] DT IE: add OLD DT compatibility key alt clisd OK 
+[2016/08/24 20:53:12.484] DT IE: add OLD DT compatibility key compat flags OK 
+[2016/08/24 20:53:12.484] set up Deployment Toolkit OK 
+[2016/08/24 20:53:12.484] DeployHome: C:\Program Files (x86)\Java\jre1.8.0_101 
+[2016/08/24 20:53:12.484] SOFTWARE\JavaSoft\Java Plug-in\11.101.2 
+[2016/08/24 20:53:12.484]   get system dir [C:\WINDOWS\SysWOW64] FAIL, error code[-1] 
+[2016/08/24 20:53:12.484]   isFileExist for [C:\WINDOWS\SysWOW64\javacpl.cpl] return FALSE 
+[2016/08/24 20:53:12.484]   isFileExist for [C:\WINDOWS\SysWOW64\jpicpl32.cpl] return FALSE 
+[2016/08/24 20:53:12.500] Register Java Control Panel - OK 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:53:12.500]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:53:12.500] Cleanup bogus RegKeys in Java Plugin-in and Web Start OK 
+[2016/08/24 20:53:12.500] Cleanup bogus JavaFX disabled entry OK 
+[2016/08/24 20:53:12.500] Cleanup SSV disabled entry OK 
+[2016/08/24 20:53:12.500] Cleanup new SSV disabled entry OK 
+[2016/08/24 20:53:12.500] Cleanup HKCU dynamic clsid OK 
+[2016/08/24 20:53:12.500] Cleanup HKCU new dynamic clsid OK 
+[2016/08/24 20:53:12.500]   get system dir [C:\WINDOWS\SysWOW64] FAIL, error code[-1] 
+[2016/08/24 20:53:12.500]   isFileExist for [C:\WINDOWS\SysWOW64\npDeployJava1.dll] return FALSE 
+[2016/08/24 20:53:12.500]   isFileExist for [C:\WINDOWS\SysWOW64\npdeploytk.dll] return FALSE 
+[2016/08/24 20:53:12.500]   isFileExist for [C:\WINDOWS\SysWOW64\deployJava1.dll] return FALSE 
+[2016/08/24 20:53:16.967] RegisterDeployEx return: TRUE 
+[2016/08/24 20:54:04.526] isQueryRequest: InstallType InstallHint SET to 0 
+[2016/08/24 20:54:04.526]  InstallType InstallHint SET to 0 
+[2016/08/24 20:54:04.526] RegisterDeploy, version 11.101.2 
+[2016/08/24 20:54:04.526]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:54:04.526]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:54:04.526]  SecurityLevel InstallHint SET to 0 
+[2016/08/24 20:54:04.526] setSecurityLevel - no hints 
+[2016/08/24 20:54:04.526] Set WebJava system security Level  OK 
+[2016/08/24 20:54:04.526]  Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment 
+[2016/08/24 20:54:04.526] Latest deploy version:  
+[2016/08/24 20:54:04.526] 11.60.2 
+[2016/08/24 20:54:04.526]  Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment 
+[2016/08/24 20:54:04.526] registerGivenDeployBin 
+[2016/08/24 20:54:04.526] RegisterWS keys 
+[2016/08/24 20:54:04.526] SetWSCurVersion: JAVAWS_INSTALL:  OK 
+[2016/08/24 20:54:04.526] SetWSCurVersion: JAVAWS_REG_CAPS:  OK 
+[2016/08/24 20:54:04.526] Set system default Webstart Version Keys OK 
+[2016/08/24 20:54:04.526] Latest deploy version:  
+[2016/08/24 20:54:04.526] 11.60.2 
+[2016/08/24 20:54:04.526] Webstart version is newer 
+[2016/08/24 20:54:04.526] Set WebStart compat keys OK 
+[2016/08/24 20:54:04.526]   get system dir [C:\WINDOWS\system32] FAIL, error code[-1] 
+[2016/08/24 20:54:04.557] create Webstart browser keys OK 
+[2016/08/24 20:54:04.661] register Webstart with DLLServier OK 
+[2016/08/24 20:54:04.661] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:54:04.661] GetLatestJavawsVersion(): 
+[2016/08/24 20:54:04.661]    checking 32-bit 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_02 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_03 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_04 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2.0_01 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 11.101.2 
+[2016/08/24 20:54:04.661]    Processing key: 11.60.2 
+[2016/08/24 20:54:04.661]    Processing key: 11.91.2 
+[2016/08/24 20:54:04.661] GetLatestJavawsVersion(): 
+[2016/08/24 20:54:04.661]    checking 64-bit 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_02 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_03 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_04 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2.0_01 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 11.101.2 
+[2016/08/24 20:54:04.661]    Processing key: 11.60.2 
+[2016/08/24 20:54:04.661] GetWebStartCaps(): 
+[2016/08/24 20:54:04.661]    latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin 
+[2016/08/24 20:54:04.661] RestoreJNLPProtocolAssociation(): 
+[2016/08/24 20:54:04.661]    Create HKLM jnlp default OK 
+[2016/08/24 20:54:04.661]    Create HKLM jnlp URL Protocol OK 
+[2016/08/24 20:54:04.661]    Create HKLM jnlp Shell Open Command OK 
+[2016/08/24 20:54:04.661]    Create HKLM jnlps default OK 
+[2016/08/24 20:54:04.661]    Create HKLM jnlps URL Protocol OK 
+[2016/08/24 20:54:04.661]    Create HKLM jnlps Shell Open Command OK 
+[2016/08/24 20:54:04.661] Set JNLP/JNLPS protocol association OK 
+[2016/08/24 20:54:04.661] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:54:04.661] GetLatestJavawsVersion(): 
+[2016/08/24 20:54:04.661]    checking 32-bit 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_02 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_03 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.0.1_04 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 1.2.0_01 
+[2016/08/24 20:54:04.661]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.661]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.661]    Processing key: 11.101.2 
+[2016/08/24 20:54:04.677]    Processing key: 11.60.2 
+[2016/08/24 20:54:04.677]    Processing key: 11.91.2 
+[2016/08/24 20:54:04.677] GetLatestJavawsVersion(): 
+[2016/08/24 20:54:04.677]    checking 64-bit 
+[2016/08/24 20:54:04.677]    Processing key: 1.0.1 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 1.0.1_02 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 1.0.1_03 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 1.0.1_04 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 1.2 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 1.2.0_01 
+[2016/08/24 20:54:04.677]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:04.677]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:04.677]    Processing key: 11.101.2 
+[2016/08/24 20:54:04.677]    Processing key: 11.60.2 
+[2016/08/24 20:54:04.677]    latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin 
+[2016/08/24 20:54:04.677] RestoreJNLPfileAssociation(): 
+[2016/08/24 20:54:04.677]    Create HKLM .jnlp default OK 
+[2016/08/24 20:54:04.677]    Create HKLM .jnlp Content Type OK 
+[2016/08/24 20:54:04.677]    Create HKLM JNLPFile default OK 
+[2016/08/24 20:54:04.677]    Create HKLM JNLPFile EditFlags OK 
+[2016/08/24 20:54:04.677]    Create HKLM JNLPFile Shell Open OK 
+[2016/08/24 20:54:04.677]    Create HKLM JNLPFile Shell Open Command OK 
+[2016/08/24 20:54:04.677] Register JavaWS OK 
+[2016/08/24 20:54:04.677] Latest deploy version:  
+[2016/08/24 20:54:04.677] 11.60.2 
+[2016/08/24 20:54:04.677]   checking mozilla plugin[@java.com/DTPlugin,version=11.60.2] 
+[2016/08/24 20:54:04.677]   checking mozilla plugin[@java.com/JavaPlugin,version=11.60.2] MATCH! 
+[2016/08/24 20:54:04.677]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:54:04.677]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:54:04.677] SetMozillaPluginREGKeys: wipeRegistry:  OK 
+[2016/08/24 20:54:04.677] Latest JRE version:  
+[2016/08/24 20:54:04.677] 1.8.0_101 
+[2016/08/24 20:54:04.692] SetMozillaPluginREGKeys: RegJavaPlugin2Mozilla:  OK 
+[2016/08/24 20:54:04.692] set up Mozilla plugin keys  OK 
+[2016/08/24 20:54:04.712] set up IE plugin keys OK 
+[2016/08/24 20:54:04.712] setIEPluginFolderPermissions 
+[2016/08/24 20:54:04.712] DeployHome: C:\Program Files\Java\jre1.8.0_101 
+[2016/08/24 20:54:05.352] set up folder permissions for IE plugin OK 
+[2016/08/24 20:54:08.522] SSVSetup: RedirectAllStaticVersionKeys OK 
+[2016/08/24 20:54:08.575] SSVSetup: RedirectSelectedStaticVersionKeys OK 
+[2016/08/24 20:54:08.575] SSVSetup OK 
+[2016/08/24 20:54:08.575] Register for elevation 
+[2016/08/24 20:54:08.575] update elevation policy for ssvagent OK 
+[2016/08/24 20:54:08.575] update elevation policy for jp2launcher OK 
+[2016/08/24 20:54:08.622] tell IE to refresh elevation policies after undate registry OK 
+[2016/08/24 20:54:08.622] RegisterforElevation OK 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@java.com/DTPlugin,version=11.60.2] MATCH! 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:54:08.622]    Delete HKLM DT CLSID OK 
+[2016/08/24 20:54:08.622]    Delete HKLM OLD DT CLSID OK 
+[2016/08/24 20:54:08.622] RegisterDT: try to register dlls in jre 
+[2016/08/24 20:54:08.622]    FF DT deploy path: C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:54:08.622]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:54:08.622] DT FF: add plugin key [SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.101.2] => [C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll] OK 
+[2016/08/24 20:54:08.622]    IE DT deploy path: C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll 
+[2016/08/24 20:54:08.622] DT IE: create CLSID [CLSID\{CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA}] OK 
+[2016/08/24 20:54:08.622] DT IE: create InProcServer32 [C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll] OK 
+[2016/08/24 20:54:08.622] DT IE: set apartment threading model OK 
+[2016/08/24 20:54:08.622] DT IE: create 'Implemented Categories' OK 
+[2016/08/24 20:54:08.622] DT IE: create 'Implemented Categories\{59fb2056-d625-48d0-a944-1a85b5ab2640}' OK 
+[2016/08/24 20:54:08.622] DT IE: add DT MIME type OK 
+[2016/08/24 20:54:08.622] DT IE: add OLD DT compatibility key alt clisd OK 
+[2016/08/24 20:54:08.622] DT IE: add OLD DT compatibility key compat flags OK 
+[2016/08/24 20:54:08.622] set up Deployment Toolkit OK 
+[2016/08/24 20:54:08.622] DeployHome: C:\Program Files\Java\jre1.8.0_101 
+[2016/08/24 20:54:08.622] SOFTWARE\JavaSoft\Java Plug-in\11.101.2 
+[2016/08/24 20:54:08.622]   get system dir [C:\WINDOWS\system32] FAIL, error code[-1] 
+[2016/08/24 20:54:08.622]   isFileExist for [C:\WINDOWS\system32\javacpl.cpl] return FALSE 
+[2016/08/24 20:54:08.622]   isFileExist for [C:\WINDOWS\system32\jpicpl32.cpl] return FALSE 
+[2016/08/24 20:54:08.638] Register Java Control Panel - OK 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:54:08.638]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:54:08.638] Cleanup bogus RegKeys in Java Plugin-in and Web Start OK 
+[2016/08/24 20:54:08.638] Cleanup bogus JavaFX disabled entry OK 
+[2016/08/24 20:54:08.638] Cleanup SSV disabled entry OK 
+[2016/08/24 20:54:08.638] Cleanup new SSV disabled entry OK 
+[2016/08/24 20:54:08.638] Cleanup HKCU dynamic clsid OK 
+[2016/08/24 20:54:08.638] Cleanup HKCU new dynamic clsid OK 
+[2016/08/24 20:54:08.638]   get system dir [C:\WINDOWS\system32] FAIL, error code[-1] 
+[2016/08/24 20:54:08.638]   isFileExist for [C:\WINDOWS\system32\npDeployJava1.dll] return FALSE 
+[2016/08/24 20:54:08.638]   isFileExist for [C:\WINDOWS\system32\npdeploytk.dll] return FALSE 
+[2016/08/24 20:54:08.638]   isFileExist for [C:\WINDOWS\system32\deployJava1.dll] return FALSE 
+[2016/08/24 20:54:13.186] RegisterDeployEx return: TRUE 
+ InstallType InstallHint SET to 0
+UnregisterDeploy, version 11.60.2
+ ForceInstall InstallHint SET to 0
+ ForceInstall InstallHint SET to 0
+ Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment
+shouldDeleteDeployKeys, version 11.60.2
+current java home C:\Program Files\Java\jre1.8.0_101
+current deploy bin: C:\Program Files\Java\jre1.8.0_60\bin
+current jp2 path C:\Program Files\Java\jre1.8.0_101\bin\jp2iexp.dll
+current jp2 ver 11.101.2
+Delete deploy okay
+Delete Java Plugin subkey in registry OK
+
+Latest deploy version: 11.101.2
+
+Latest deploy version: 11.101.2
+
+Latest JRE version: 1.8.0_101
+Unset IE plugin registry keys OK
+  checking mozilla plugin[@java.com/DTPlugin,version=11.101.2]
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] MATCH!
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+Wipe Mozilla plugin keys OK
+
+Latest JRE version: 1.8.0_101
+ update MozillaPlugins key to @java.com/JavaPlugin,version=11.101.2
+Unset Mozilla plugin registry keys OK
+Unregister JCP
+  get system dir [C:\WINDOWS\system32] OK
+Unregister Java Control Panel OK
+UnregisterJavaWS
+Unset WebStart current version keys OK
+Restore previous Webstart bits
+Set WebStart compat keys OK
+  get system dir [C:\WINDOWS\system32] OK
+create Webstart browser keys OK
+register Webstart with DLLServer OK
+GetLatestJavaws32or64Home():
+GetLatestJavawsVersion():
+   checking 32-bit
+   Processing key: 1.0.1
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_02
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_03
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_04
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2.0_01
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 11.101.2
+   Processing key: 11.60.2
+   Processing key: 11.91.2
+GetLatestJavawsVersion():
+   checking 64-bit
+   Processing key: 1.0.1
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_02
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_03
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_04
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2.0_01
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 11.101.2
+   latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin
+RestoreJNLPfileAssociation():
+   Create HKLM .jnlp default OK
+   Create HKLM .jnlp Content Type OK
+   Create HKLM JNLPFile default OK
+   Create HKLM JNLPFile EditFlags OK
+   Create HKLM JNLPFile Shell Open OK
+   Create HKLM JNLPFile Shell Open Command OK
+Unregister Java Webstart OK
+SSVSetup: RedirectAllStaticVersionKeys OK
+SSVSetup: RedirectSelectedStaticVersionKeys OK
+SSVSetup  OK
+UnregisterforElevation
+Register for elevation
+update elevation policy for ssvagent OK
+update elevation policy for jp2launcher OK
+tell IE to refresh elevation policies after undate registry OK
+UnregisterforElevation  OK
+  isFileExist for [C:\Program Files\Java\jre1.8.0_101\bin\new_plugin] return FALSE
+Re-register DT in: C:\Program Files\Java\jre1.8.0_101\bin
+  checking mozilla plugin[@java.com/DTPlugin,version=11.101.2] MATCH!
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2]
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+   Delete HKLM DT CLSID OK
+   Delete HKLM OLD DT CLSID OK
+RegisterDT: try to register dlls in jre
+   FF DT deploy path: C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2]
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+DT FF: add plugin key [SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.60.2] => [C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll] OK
+   IE DT deploy path: C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll
+DT IE: create CLSID [CLSID\{CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA}] OK
+DT IE: create InProcServer32 [C:\Program Files\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll] OK
+DT IE: set apartment threading model OK
+DT IE: create 'Implemented Categories' OK
+DT IE: create 'Implemented Categories\{59fb2056-d625-48d0-a944-1a85b5ab2640}' OK
+DT IE: add DT MIME type OK
+DT IE: add OLD DT compatibility key alt clisd OK
+DT IE: add OLD DT compatibility key compat flags OK
+Register Deployment Toolkit OK
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+Cleanup bogus RegKeys in Java Plugin-in and Web Start OK
+Cleanup bogus JavaFX disabled entry OK
+Cleanup SSV disabled entry OK
+Cleanup new SSV disabled entry OK
+Cleanup HKCU dynamic clsid OK
+Cleanup HKCU new dynamic clsid OK
+  get system dir [C:\WINDOWS\system32] OK
+  isFileExist for [C:\WINDOWS\system32\npDeployJava1.dll] return FALSE
+  isFileExist for [C:\WINDOWS\system32\npdeploytk.dll] return FALSE
+  isFileExist for [C:\WINDOWS\system32\deployJava1.dll] return FALSE
+UnRegisterDeployEx return: TRUE
+
+[2016/08/24 20:55:00.569]  InstallType InstallHint SET to 0 
+[2016/08/24 20:55:00.611] UnregisterDeploy, version 11.91.2 
+[2016/08/24 20:55:00.611]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:55:00.611]  ForceInstall InstallHint SET to 0 
+[2016/08/24 20:55:00.611]  Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment 
+[2016/08/24 20:55:00.611] shouldDeleteDeployKeys, version  
+[2016/08/24 20:55:00.611] 11.91.2 
+[2016/08/24 20:55:00.611] current java home  
+[2016/08/24 20:55:00.611] C:\Program Files (x86)\Java\jre1.8.0_101 
+[2016/08/24 20:55:00.611] current deploy bin:  
+[2016/08/24 20:55:00.611] C:\Program Files (x86)\Java\jre1.8.0_91\bin 
+[2016/08/24 20:55:00.611] current jp2 path  
+[2016/08/24 20:55:00.611] C:\Program Files (x86)\Java\jre1.8.0_101\bin\jp2iexp.dll 
+[2016/08/24 20:55:00.612] current jp2 ver  
+[2016/08/24 20:55:00.612] 11.101.2 
+[2016/08/24 20:55:00.612] Delete deploy okay 
+[2016/08/24 20:55:00.612] Delete Java Plugin subkey in registry OK 
+[2016/08/24 20:55:00.613] Latest deploy version:  
+[2016/08/24 20:55:00.613] 11.101.2 
+[2016/08/24 20:55:00.614] Latest deploy version:  
+[2016/08/24 20:55:00.614] 11.101.2 
+[2016/08/24 20:55:00.614] Latest JRE version:  
+[2016/08/24 20:55:00.614] 1.8.0_101 
+[2016/08/24 20:55:00.623] Unset IE plugin registry keys OK 
+[2016/08/24 20:55:00.623]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:55:00.624]   checking mozilla plugin[@java.com/DTPlugin,version=11.101.2] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] MATCH! 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:55:00.626]   checking mozilla plugin[enlite] 
+[2016/08/24 20:55:00.626] Wipe Mozilla plugin keys OK 
+[2016/08/24 20:55:00.626] Latest JRE version:  
+[2016/08/24 20:55:00.626] 1.8.0_101 
+[2016/08/24 20:55:00.626]  update MozillaPlugins key to @java.com/JavaPlugin,version=11.101.2 
+[2016/08/24 20:55:00.631] Unset Mozilla plugin registry keys OK 
+[2016/08/24 20:55:00.631] Unregister JCP 
+[2016/08/24 20:55:00.631]   get system dir [C:\WINDOWS\SysWOW64] OK 
+[2016/08/24 20:55:00.635] Unregister Java Control Panel OK 
+[2016/08/24 20:55:00.635] UnregisterJavaWS 
+[2016/08/24 20:55:00.636] Unset WebStart current version keys OK 
+[2016/08/24 20:55:00.636] Restore previous Webstart bits 
+[2016/08/24 20:55:00.637] Set WebStart compat keys OK 
+[2016/08/24 20:55:00.641] create Webstart browser keys OK 
+[2016/08/24 20:55:00.647] register Webstart with DLLServer OK 
+[2016/08/24 20:55:00.647] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:55:00.647] GetLatestJavawsVersion(): 
+[2016/08/24 20:55:00.647]    checking 32-bit 
+[2016/08/24 20:55:00.647]    Processing key: 1.0.1 
+[2016/08/24 20:55:00.647]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.647]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.647]    Processing key: 1.0.1_02 
+[2016/08/24 20:55:00.648]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.648]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.648]    Processing key: 1.0.1_03 
+[2016/08/24 20:55:00.648]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.648]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.648]    Processing key: 1.0.1_04 
+[2016/08/24 20:55:00.648]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.648]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.648]    Processing key: 1.2 
+[2016/08/24 20:55:00.649]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.649]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.649]    Processing key: 1.2.0_01 
+[2016/08/24 20:55:00.649]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.649]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.649]    Processing key: 11.101.2 
+[2016/08/24 20:55:00.649]    Processing key: 11.60.2 
+[2016/08/24 20:55:00.650] GetLatestJavawsVersion(): 
+[2016/08/24 20:55:00.650]    checking 64-bit 
+[2016/08/24 20:55:00.650]    Processing key: 1.0.1 
+[2016/08/24 20:55:00.650]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.650]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.650]    Processing key: 1.0.1_02 
+[2016/08/24 20:55:00.650]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.650]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.650]    Processing key: 1.0.1_03 
+[2016/08/24 20:55:00.651]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.651]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.651]    Processing key: 1.0.1_04 
+[2016/08/24 20:55:00.651]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.651]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.651]    Processing key: 1.2 
+[2016/08/24 20:55:00.651]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.651]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.651]    Processing key: 1.2.0_01 
+[2016/08/24 20:55:00.651]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.651]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.651]    Processing key: 11.101.2 
+[2016/08/24 20:55:00.652] GetWebStartCaps(): 
+[2016/08/24 20:55:00.652]    latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin 
+[2016/08/24 20:55:00.652] RestoreJNLPProtocolAssociation(): 
+[2016/08/24 20:55:00.652]    Create HKLM jnlp default OK 
+[2016/08/24 20:55:00.652]    Create HKLM jnlp URL Protocol OK 
+[2016/08/24 20:55:00.652]    Create HKLM jnlp Shell Open Command OK 
+[2016/08/24 20:55:00.652]    Create HKLM jnlps default OK 
+[2016/08/24 20:55:00.652]    Create HKLM jnlps URL Protocol OK 
+[2016/08/24 20:55:00.652]    Create HKLM jnlps Shell Open Command OK 
+[2016/08/24 20:55:00.652] Set JNLP/JNLPS protocol association OK 
+[2016/08/24 20:55:00.652] GetLatestJavaws32or64Home(): 
+[2016/08/24 20:55:00.652] GetLatestJavawsVersion(): 
+[2016/08/24 20:55:00.652]    checking 32-bit 
+[2016/08/24 20:55:00.652]    Processing key: 1.0.1 
+[2016/08/24 20:55:00.653]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.653]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.653]    Processing key: 1.0.1_02 
+[2016/08/24 20:55:00.653]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.653]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.653]    Processing key: 1.0.1_03 
+[2016/08/24 20:55:00.653]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.653]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.653]    Processing key: 1.0.1_04 
+[2016/08/24 20:55:00.654]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.654]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.654]    Processing key: 1.2 
+[2016/08/24 20:55:00.654]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.654]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.654]    Processing key: 1.2.0_01 
+[2016/08/24 20:55:00.654]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.654]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.654]    Processing key: 11.101.2 
+[2016/08/24 20:55:00.655]    Processing key: 11.60.2 
+[2016/08/24 20:55:00.655] GetLatestJavawsVersion(): 
+[2016/08/24 20:55:00.655]    checking 64-bit 
+[2016/08/24 20:55:00.655]    Processing key: 1.0.1 
+[2016/08/24 20:55:00.655]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.655]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.655]    Processing key: 1.0.1_02 
+[2016/08/24 20:55:00.655]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.655]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.655]    Processing key: 1.0.1_03 
+[2016/08/24 20:55:00.656]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.656]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.656]    Processing key: 1.0.1_04 
+[2016/08/24 20:55:00.656]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.656]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.656]    Processing key: 1.2 
+[2016/08/24 20:55:00.656]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.656]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.656]    Processing key: 1.2.0_01 
+[2016/08/24 20:55:00.657]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:00.657]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:00.657]    Processing key: 11.101.2 
+[2016/08/24 20:55:00.657]    latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin 
+[2016/08/24 20:55:00.657] RestoreJNLPfileAssociation(): 
+[2016/08/24 20:55:00.657]    Create HKLM .jnlp default OK 
+[2016/08/24 20:55:00.657]    Create HKLM .jnlp Content Type OK 
+[2016/08/24 20:55:00.657]    Create HKLM JNLPFile default OK 
+[2016/08/24 20:55:00.657]    Create HKLM JNLPFile EditFlags OK 
+[2016/08/24 20:55:00.658]    Create HKLM JNLPFile Shell Open OK 
+[2016/08/24 20:55:00.658]    Create HKLM JNLPFile Shell Open Command OK 
+[2016/08/24 20:55:00.658] Unregister Java Webstart OK 
+[2016/08/24 20:55:02.974] SSVSetup: RedirectAllStaticVersionKeys OK 
+[2016/08/24 20:55:02.997] SSVSetup: RedirectSelectedStaticVersionKeys OK 
+[2016/08/24 20:55:02.998] SSVSetup  OK 
+[2016/08/24 20:55:02.998] UnregisterforElevation 
+[2016/08/24 20:55:02.998] Register for elevation 
+[2016/08/24 20:55:02.999] update elevation policy for ssvagent OK 
+[2016/08/24 20:55:02.999] update elevation policy for jp2launcher OK 
+[2016/08/24 20:55:03.001] tell IE to refresh elevation policies after undate registry OK 
+[2016/08/24 20:55:03.001] UnregisterforElevation  OK 
+[2016/08/24 20:55:03.001]   isFileExist for [C:\Program Files (x86)\Java\jre1.8.0_101\bin\new_plugin] return FALSE 
+[2016/08/24 20:55:03.001] Re-register DT in: C:\Program Files (x86)\Java\jre1.8.0_101\bin 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@java.com/DTPlugin,version=11.101.2] MATCH! 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:55:03.002]   checking mozilla plugin[enlite] 
+[2016/08/24 20:55:03.003]    Delete HKLM DT CLSID OK 
+[2016/08/24 20:55:03.003]    Delete HKLM OLD DT CLSID OK 
+[2016/08/24 20:55:03.003] RegisterDT: try to register dlls in jre 
+[2016/08/24 20:55:03.003]    FF DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@adobe.com/ShockwavePlayer] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@Apple.com/iTunes,version=] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@Apple.com/iTunes,version=1.0] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@authentec.com/ffwloplugin] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@Citrix.com/npican] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@microsoft.com/Lync,version=15.0] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@microsoft.com/SharePoint,version=14.0] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@tools.google.com/Google Update;version=3] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@tools.google.com/Google Update;version=9] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[Adobe Reader] 
+[2016/08/24 20:55:03.003]   checking mozilla plugin[enlite] 
+[2016/08/24 20:55:03.004] DT FF: add plugin key [SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.91.2] => [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll] OK 
+[2016/08/24 20:55:03.005]    IE DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll 
+[2016/08/24 20:55:03.005] DT IE: create CLSID [CLSID\{CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA}] OK 
+[2016/08/24 20:55:03.005] DT IE: create InProcServer32 [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll] OK 
+[2016/08/24 20:55:03.005] DT IE: set apartment threading model OK 
+[2016/08/24 20:55:03.005] DT IE: create 'Implemented Categories' OK 
+[2016/08/24 20:55:03.005] DT IE: create 'Implemented Categories\{59fb2056-d625-48d0-a944-1a85b5ab2640}' OK 
+[2016/08/24 20:55:03.006] DT IE: add DT MIME type OK 
+[2016/08/24 20:55:03.006] DT IE: add OLD DT compatibility key alt clisd OK 
+[2016/08/24 20:55:03.006] DT IE: add OLD DT compatibility key compat flags OK 
+[2016/08/24 20:55:03.006] Register Deployment Toolkit OK 
+[2016/08/24 20:55:03.006]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.006]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.007]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.007]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.007]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.007]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.007]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.007]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.007]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.007]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.008]  check JRE registry to see if it's an corrupted webstart key 
+[2016/08/24 20:55:03.008]   failed to recover webstart key when attempt to open jre key FAIL, error code[2] 
+[2016/08/24 20:55:03.008] Cleanup bogus RegKeys in Java Plugin-in and Web Start OK 
+[2016/08/24 20:55:03.008] Cleanup bogus JavaFX disabled entry OK 
+[2016/08/24 20:55:03.008] Cleanup SSV disabled entry OK 
+[2016/08/24 20:55:03.009] Cleanup new SSV disabled entry OK 
+[2016/08/24 20:55:03.009] Cleanup HKCU dynamic clsid OK 
+[2016/08/24 20:55:03.009] Cleanup HKCU new dynamic clsid OK 
+[2016/08/24 20:55:03.009]   get system dir [C:\WINDOWS\SysWOW64] OK 
+[2016/08/24 20:55:03.009]   isFileExist for [C:\WINDOWS\SysWOW64\npDeployJava1.dll] return FALSE 
+[2016/08/24 20:55:03.009]   isFileExist for [C:\WINDOWS\SysWOW64\npdeploytk.dll] return FALSE 
+[2016/08/24 20:55:03.009]   isFileExist for [C:\WINDOWS\SysWOW64\deployJava1.dll] return FALSE 
+[2016/08/24 20:55:05.764] UnRegisterDeployEx return: TRUE 
+ InstallType InstallHint SET to 0
+UnregisterDeploy, version 11.60.2
+ ForceInstall InstallHint SET to 0
+ ForceInstall InstallHint SET to 0
+ Cannot open registry key SOFTWARE\JavaSoft\Java Runtime Environment
+shouldDeleteDeployKeys, version 11.60.2
+current java home C:\Program Files (x86)\Java\jre1.8.0_101
+current deploy bin: C:\Program Files (x86)\Java\jre1.8.0_60\bin
+current jp2 path C:\Program Files (x86)\Java\jre1.8.0_101\bin\jp2iexp.dll
+current jp2 ver 11.101.2
+Delete deploy okay
+Delete Java Plugin subkey in registry OK
+
+Latest deploy version: 11.101.2
+
+Latest deploy version: 11.101.2
+
+Latest JRE version: 1.8.0_101
+Unset IE plugin registry keys OK
+  checking mozilla plugin[@adobe.com/ShockwavePlayer]
+  checking mozilla plugin[@Apple.com/iTunes,version=]
+  checking mozilla plugin[@Apple.com/iTunes,version=1.0]
+  checking mozilla plugin[@authentec.com/ffwloplugin]
+  checking mozilla plugin[@Citrix.com/npican]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater]
+  checking mozilla plugin[@java.com/DTPlugin,version=11.101.2]
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2] MATCH!
+  checking mozilla plugin[@microsoft.com/Lync,version=15.0]
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+  checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912]
+  checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2]
+  checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13]
+  checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2]
+  checking mozilla plugin[@tools.google.com/Google Update;version=3]
+  checking mozilla plugin[@tools.google.com/Google Update;version=9]
+  checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0]
+  checking mozilla plugin[Adobe Reader]
+  checking mozilla plugin[enlite]
+Wipe Mozilla plugin keys OK
+
+Latest JRE version: 1.8.0_101
+ update MozillaPlugins key to @java.com/JavaPlugin,version=11.101.2
+Unset Mozilla plugin registry keys OK
+Unregister JCP
+  get system dir [C:\WINDOWS\SysWOW64] OK
+Unregister Java Control Panel OK
+UnregisterJavaWS
+Unset WebStart current version keys OK
+Restore previous Webstart bits
+Set WebStart compat keys OK
+create Webstart browser keys OK
+register Webstart with DLLServer OK
+GetLatestJavaws32or64Home():
+GetLatestJavawsVersion():
+   checking 32-bit
+   Processing key: 1.0.1
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_02
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_03
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_04
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2.0_01
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 11.101.2
+GetLatestJavawsVersion():
+   checking 64-bit
+   Processing key: 1.0.1
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_02
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_03
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.0.1_04
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 1.2.0_01
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+   Processing key: 11.101.2
+   latestVersion: 11.101.2 latestHome: C:\Program Files (x86)\Java\jre1.8.0_101\bin
+RestoreJNLPfileAssociation():
+   Create HKLM .jnlp default OK
+   Create HKLM .jnlp Content Type OK
+   Create HKLM JNLPFile default OK
+   Create HKLM JNLPFile EditFlags OK
+   Create HKLM JNLPFile Shell Open OK
+   Create HKLM JNLPFile Shell Open Command OK
+Unregister Java Webstart OK
+SSVSetup: RedirectAllStaticVersionKeys OK
+SSVSetup: RedirectSelectedStaticVersionKeys OK
+SSVSetup  OK
+UnregisterforElevation
+Register for elevation
+update elevation policy for ssvagent OK
+update elevation policy for jp2launcher OK
+tell IE to refresh elevation policies after undate registry OK
+UnregisterforElevation  OK
+  isFileExist for [C:\Program Files (x86)\Java\jre1.8.0_101\bin\new_plugin] return FALSE
+Re-register DT in: C:\Program Files (x86)\Java\jre1.8.0_101\bin
+  checking mozilla plugin[@adobe.com/ShockwavePlayer]
+  checking mozilla plugin[@Apple.com/iTunes,version=]
+  checking mozilla plugin[@Apple.com/iTunes,version=1.0]
+  checking mozilla plugin[@authentec.com/ffwloplugin]
+  checking mozilla plugin[@Citrix.com/npican]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater]
+  checking mozilla plugin[@java.com/DTPlugin,version=11.101.2] MATCH!
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2]
+  checking mozilla plugin[@microsoft.com/Lync,version=15.0]
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+  checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912]
+  checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2]
+  checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13]
+  checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2]
+  checking mozilla plugin[@tools.google.com/Google Update;version=3]
+  checking mozilla plugin[@tools.google.com/Google Update;version=9]
+  checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0]
+  checking mozilla plugin[Adobe Reader]
+  checking mozilla plugin[enlite]
+   Delete HKLM DT CLSID OK
+   Delete HKLM OLD DT CLSID OK
+RegisterDT: try to register dlls in jre
+   FF DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll
+  checking mozilla plugin[@adobe.com/ShockwavePlayer]
+  checking mozilla plugin[@Apple.com/iTunes,version=]
+  checking mozilla plugin[@Apple.com/iTunes,version=1.0]
+  checking mozilla plugin[@authentec.com/ffwloplugin]
+  checking mozilla plugin[@Citrix.com/npican]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI ipt;version=2.1.66]
+  checking mozilla plugin[@intel-webapi.intel.com/Intel WebAPI updater]
+  checking mozilla plugin[@java.com/JavaPlugin,version=11.101.2]
+  checking mozilla plugin[@microsoft.com/Lync,version=15.0]
+  checking mozilla plugin[@Microsoft.com/NpCtrl,version=1.0]
+  checking mozilla plugin[@microsoft.com/SharePoint,version=14.0]
+  checking mozilla plugin[@microsoft.com/WLPG,version=16.4.3505.0912]
+  checking mozilla plugin[@real.com/nppl3260;version=17.0.13.2]
+  checking mozilla plugin[@real.com/nprndlhtml5videoshim;version=17.0.13]
+  checking mozilla plugin[@real.com/nprpplugin;version=17.0.13.2]
+  checking mozilla plugin[@tools.google.com/Google Update;version=3]
+  checking mozilla plugin[@tools.google.com/Google Update;version=9]
+  checking mozilla plugin[@WildTangent.com/GamesAppPresenceDetector,Version=1.0]
+  checking mozilla plugin[Adobe Reader]
+  checking mozilla plugin[enlite]
+DT FF: add plugin key [SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.60.2] => [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\npDeployJava1.dll] OK
+   IE DT deploy path: C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll
+DT IE: create CLSID [CLSID\{CAFEEFAC-DEC7-0000-0001-ABCDEFFEDCBA}] OK
+DT IE: create InProcServer32 [C:\Program Files (x86)\Java\jre1.8.0_101\bin\dtplugin\deployJava1.dll] OK
+DT IE: set apartment threading model OK
+DT IE: create 'Implemented Categories' OK
+DT IE: create 'Implemented Categories\{59fb2056-d625-48d0-a944-1a85b5ab2640}' OK
+DT IE: add DT MIME type OK
+DT IE: add OLD DT compatibility key alt clisd OK
+DT IE: add OLD DT compatibility key compat flags OK
+Register Deployment Toolkit OK
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+ check JRE registry to see if it's an corrupted webstart key
+  failed to recover webstart key when attempt to open jre key FAIL, error code[2]
+Cleanup bogus RegKeys in Java Plugin-in and Web Start OK
+Cleanup bogus JavaFX disabled entry OK
+Cleanup SSV disabled entry OK
+Cleanup new SSV disabled entry OK
+Cleanup HKCU dynamic clsid OK
+Cleanup HKCU new dynamic clsid OK
+  get system dir [C:\WINDOWS\SysWOW64] OK
+  isFileExist for [C:\WINDOWS\SysWOW64\npDeployJava1.dll] return FALSE
+  isFileExist for [C:\WINDOWS\SysWOW64\npdeploytk.dll] return FALSE
+  isFileExist for [C:\WINDOWS\SysWOW64\deployJava1.dll] return FALSE
+UnRegisterDeployEx return: TRUE
+
+[2016/08/24 20:56:08.720] isQueryRequest: InstallType InstallHint SET to 2 
+[2016/08/24 20:56:08.720]  isUserWebJavaStatusHint InstallHint SET to 1 
+[2016/08/24 20:56:08.721] execJCPCmd new cmd:  -cp "C:\Program Files (x86)\Java\jre1.8.0_101\bin\..\lib\deploy.jar" com.sun.deploy.panel.ControlPanel -getUserWebJavaStatus 
+[2016/08/24 20:56:08.721] RunAsDesktopUser - OnVistaOrLater, use CreateProcessWithTokenW 
+[2016/08/24 20:56:08.722] RunAsDesktopUser - calling _CreateProcessWithTokenW 
+[2016/08/24 20:56:08.767] RunAsDesktopUser: CreateProcessWithTokenW failed. 
+[2016/08/24 20:56:08.767]   adding command:QUERY  (optional) 
+[2016/08/24 20:56:08.767]  isUserPreviousDecisionsExistQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.767]  isClearUserPreviousDecisionsQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.767]  isResetUserPrevousDecisionsQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.767]  isSystemConfigQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.828] isQueryRequest: InstallType InstallHint SET to 2 
+[2016/08/24 20:56:08.828]  isUserWebJavaStatusHint InstallHint SET to 0 
+[2016/08/24 20:56:08.828]  isUserPreviousDecisionsExistQuery InstallHint SET to 1 
+[2016/08/24 20:56:08.829] execJCPCmd new cmd:  -cp "C:\Program Files (x86)\Java\jre1.8.0_101\bin\..\lib\deploy.jar" com.sun.deploy.panel.ControlPanel -getUserPreviousDecisionsExist 30 
+[2016/08/24 20:56:08.829] RunAsDesktopUser - OnVistaOrLater, use CreateProcessWithTokenW 
+[2016/08/24 20:56:08.829] RunAsDesktopUser - calling _CreateProcessWithTokenW 
+[2016/08/24 20:56:08.842] RunAsDesktopUser: CreateProcessWithTokenW failed. 
+[2016/08/24 20:56:08.842]   adding command:QUERY  (optional) 
+[2016/08/24 20:56:08.842]  isClearUserPreviousDecisionsQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.842]  isResetUserPrevousDecisionsQuery InstallHint SET to 0 
+[2016/08/24 20:56:08.842]  isSystemConfigQuery InstallHint SET to 0 
